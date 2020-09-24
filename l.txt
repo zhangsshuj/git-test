@@ -10,4 +10,9 @@ asdmmnad
 
 
 ssb
+<<<<<<< HEAD
 nq hgqghwe
+=======
+
+hjqbwdjhqbwehqwbhjqeqjhwb
+>>>>>>> dev
